@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @rahulpra045<br>👀 I’m interested in Blockchain, web development, DSA<br>🌱 I’m currently learning Solidity, Ethereum<br>💞️ I’m looking to collaborate on Blockchain Project<br>📫 How to reach me Gmail- rahulpra045@gmail.com<br>👨‍💻My Portfolio Website - (https://portfolio-rahulpra045.netlify.app/)/
+👋 Hi, I’m @rahulpra045<br>👀 I’m interested in Blockchain, web development, DSA<br>🌱 I’m currently learning Solidity, Ethereum<br>💞️ I’m looking to collaborate on Blockchain Project<br>📫 How to reach me Gmail- rahulpra045@gmail.com<br>👨‍💻My Portfolio Website - https://portfolio-rahulpra045.netlify.app//
 
 
 <!--## 🌐 Socials:
